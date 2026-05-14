@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Yannel-Windyam-Juste-BELEMSIGRI
+- 👋 Hi, I’m @Windyam-Yannel-Juste-BELEMSIGRI
 - 👀 I’m interested in Network engineerning, Cyber security and Artificial Intelligence 
 - 🌱 I’m currently learning at the National School of Applied Science in Morocco
