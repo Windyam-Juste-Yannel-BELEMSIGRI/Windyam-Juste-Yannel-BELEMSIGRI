@@ -1,36 +1,48 @@
-# 👨‍💻 `echo "Hello, World! I'm Yannel"`
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=049FD9&center=true&vCenter=true&width=600&lines=%3E+whoami;Windyam+Juste+Yannel+BELEMSIGRI;Network+%26+Cybersecurity+Engineering;AI+Enthusiast+%26+Linux+Lover" alt="Typing SVG" />
+</div>
 
-Je suis actuellement élève ingénieur en deuxième année de cycle d'ingénieur, avec un fort background technique initié lors de mon DUT. Passionné par le bas niveau de l'infrastructure et les technologies de pointe, je construis un pont entre la **Cybersécurité**, les **Réseaux** et l'**Intelligence Artificielle**.
+<br>
 
-### 🔭 Ce que je fais actuellement :
-- 🎓 **Études :** En cycle d'ingénieur, avec pour ligne de mire un stage de fin d'études stimulant pour l'année prochaine.
-- 🛡️ **Réseaux & Cyber :** Préparation active de la certification **Cisco CCNA** (et explorations de l'architecture du kernel Linux).
-- 🤖 **Projets innovants :** Développement full-stack, intégration d'IA et exploration des API réseau CAMARA (notamment pour des hackathons).
+```bash
+yannel@ubuntu:~$ cat /etc/profile_info
+```
+> 🚀 Élève ingénieur passionné par le bas niveau, l'automatisation réseau et la sécurité. Je construis un pont entre l'infrastructure (Cisco, Linux) et l'intelligence artificielle pour concevoir les réseaux de demain.
 
-### 🛠️ Ma Stack Technique
-*(Ici, les badges donnent un côté très visuel et pro)*
+```python
+class Yannel(Engineer):
+    def __init__(self):
+        self.education = "Cycle d'Ingénieur (ex-DUT)"
+        self.certifications_in_progress = ["Cisco CCNA", "Cybersecurity Analyst"]
+        self.interests = ["Linux Kernel", "Pentesting", "Machine Learning", "RAG"]
 
-**Systèmes & Réseaux**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    def get_current_missions(self):
+        return {
+            "training": "OverTheWire, TryHackMe",
+            "building": "AI + Network Automation Projects",
+            "searching": "End-of-study internship opportunities"
+        }
+```
 
-**Développement & Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-### 📈 Mes Statistiques
-*(Astuce geek : ajoute ces lignes pour afficher dynamiquement ton activité. Remplace "TonUsername" par ton pseudo exact)*
+### ⚡ `/usr/bin/skills`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yannel-Windyam-Juste-BELEMSIGRI&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
-### 📫 Comment me joindre :
-- 📧 **Email :** yannelbelemsigri9@gmail.com
-- 💼 **LinkedIn :** [Ton URL LinkedIn ici]
+### 📊 `/var/log/github_activity`
 
----
-*« Unix is simple. It just takes a genius to understand its simplicity. » — Dennis Ritchie*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Windyam-Juste-Yannel-BELEMSIGRI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</p>
+
+```bash
+yannel@ubuntu:~$ ping -c 1 yannelbelemsigri9@gmail.com
+yannel@ubuntu:~$ echo "Connect with me on LinkedIn to establish a TCP handshake!"
+```
