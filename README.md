@@ -7,13 +7,13 @@
 ```bash
 yannel@ubuntu:~$ cat /etc/profile_info
 ```
-> 🚀 Élève ingénieur passionné par le bas niveau, l'automatisation réseau et la sécurité. Je construis un pont entre l'infrastructure (Cisco, Linux) et l'intelligence artificielle pour concevoir les réseaux de demain.
+> 🚀 Élève ingénieur passionné par l'automatisation réseau et la sécurité. Je construis un pont entre l'infrastructure (Cisco, Linux) et l'intelligence artificielle pour assurer la sécurité des réseaux de demain.
 
 ```python
 class Yannel(Engineer):
     def __init__(self):
         self.education = "Cycle d'Ingénieur (ex-DUT)"
-        self.certifications_in_progress = ["Cisco CCNA", "Cybersecurity Analyst"]
+        self.certifications_in_progress = ["ComptIA Security+", "Cybersecurity"]
         self.interests = ["Linux Kernel", "Pentesting", "Machine Learning", "RAG"]
 
     def get_current_missions(self):
