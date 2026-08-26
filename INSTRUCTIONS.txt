@@ -1,0 +1,3 @@
+NOTE : ce repo doit être créé avec EXACTEMENT le même nom que ton pseudo GitHub
+(ex: si ton pseudo est 'yassine-dev', crée un repo nommé 'yassine-dev').
+GitHub affichera alors automatiquement ce README sur ta page de profil.
