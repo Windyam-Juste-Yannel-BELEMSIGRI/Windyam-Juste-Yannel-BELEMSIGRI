@@ -7,7 +7,7 @@
 ```bash
 yannel@ubuntu:~$ cat /etc/profile_info
 ```
-> 🚀 Élève ingénieur passionné par l'automatisation réseau et la sécurité. Je construis un pont entre l'infrastructure (Cisco, Linux) et l'intelligence artificielle pour assurer la sécurité des réseaux de demain.
+> 🚀 Élève ingénieur passionné par les réseaux informatiques, la cybersécurité et l'intelligence artificielle. Je construis un pont entre l'infrastructure (Cisco, Linux) et l'intelligence artificielle pour assurer la sécurité des réseaux de demain.
 
 ```python
 class Yannel(Engineer):
@@ -19,8 +19,7 @@ class Yannel(Engineer):
     def get_current_missions(self):
         return {
             "training": "OverTheWire, TryHackMe",
-            "building": "AI + Network Automation Projects",
-            "searching": "End-of-study internship opportunities"
+            "building": "AI + Networking Projects",
         }
 ```
 
