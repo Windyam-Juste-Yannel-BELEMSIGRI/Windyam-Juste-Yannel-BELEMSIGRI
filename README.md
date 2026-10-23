@@ -3,7 +3,7 @@
 
   <br>
 
-  <a href="https://yannel-belemsigri.vercel.app"><img src="https://img.shields.io/badge/Portfolio-yannel--belemsigri.vercel.app-3EE08F?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://belemsigri-windyam-juste-yannel.vercel.app"><img src="https://img.shields.io/badge/Portfolio-yannel--belemsigri.vercel.app-3EE08F?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/windyam-juste-yannel-belemsigri"><img src="https://img.shields.io/badge/LinkedIn-Windyam_Yannel_Belemsigri-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:yannelbelemsigri9@gmail.com"><img src="https://img.shields.io/badge/Email-yannelbelemsigri9@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
@@ -79,19 +79,6 @@ class Yannel(Engineer):
     </td>
   </tr>
 </table>
-
-### 🗂️ `ls ~/projets`
-
-| Projet | Domaine | Ce que ça m'apporte côté SOC / data |
-| --- | --- | --- |
-| [Lab sécurité Wi-Fi avec Kali Linux](https://yannel-belemsigri.vercel.app/projets/lab-wifi-kali/) | Sécurité | Comprendre un faux point d'accès pour savoir le détecter |
-| [Services réseau Linux : DHCP, DNS, Web](https://yannel-belemsigri.vercel.app/projets/services-reseau-linux/) | Réseau | Savoir où chercher dans les journaux pendant une investigation |
-| [Moteur de recherche sémantique](https://yannel-belemsigri.vercel.app/projets/recherche-semantique/) | Data / IA | Indexer du texte pour retrouver des incidents similaires |
-| [Analyse de données de bout en bout](https://yannel-belemsigri.vercel.app/projets/analyse-statistique/) | Data | Nettoyer et normaliser la donnée avant toute détection |
-| [Réseau Cisco physique et simulé](https://yannel-belemsigri.vercel.app/projets/reseau-cisco-packet-tracer/) | Réseau | La segmentation VLAN comme mesure de sécurité |
-| [Site e-commerce React & Django](https://yannel-belemsigri.vercel.app/projets/ecommerce-digiscia/) | Dev · stage | Savoir ce qu'un attaquant cherche dans une application web |
-
-➡️ Détails, démarche et parcours complet sur **[le portfolio](https://yannel-belemsigri.vercel.app)**.
 
 ### 📊 `/var/log/github_activity`
 
