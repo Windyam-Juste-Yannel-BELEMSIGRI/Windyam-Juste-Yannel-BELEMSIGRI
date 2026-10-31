@@ -83,7 +83,7 @@ class Yannel(Engineer):
 ### 📊 `/var/log/github_activity`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Windyam-Juste-Yannel-BELEMSIGRI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3EE08F&icon_color=3EE08F" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Windyam-Juste-Yannel-BELEMSIGRI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3EE08F&icon_color=3EE08F&v=1" alt="GitHub Stats" />
 </div>
 
 ```bash
