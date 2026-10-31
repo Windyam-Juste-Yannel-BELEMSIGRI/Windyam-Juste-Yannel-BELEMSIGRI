@@ -82,9 +82,9 @@ class Yannel(Engineer):
 
 ### 📊 `/var/log/github_activity`
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Windyam-Juste-Yannel-BELEMSIGRI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3EE08F&icon_color=3EE08F" alt="GitHub Stats" />
-</p>
+</div>
 
 ```bash
 yannel@ubuntu:~$ nc -v yannelbelemsigri9@gmail.com 443
