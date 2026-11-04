@@ -89,14 +89,6 @@ yannel@ubuntu:~$ tail -n 4 /var/log/github_activity.log
 [ALERT]  open_to_internship=true location="Morocco / Remote"
 ~~~
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/Windyam-Juste-Yannel-BELEMSIGRI?style=for-the-badge&logo=github&label=Followers&color=3EE08F&labelColor=0D1117" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Windyam-Juste-Yannel-BELEMSIGRI?style=for-the-badge&logo=github&label=Stars&color=3EE08F&labelColor=0D1117" alt="GitHub Stars" />
-  <img src="https://komarev.com/ghpvc/?username=Windyam-Juste-Yannel-BELEMSIGRI&style=for-the-badge&color=3EE08F&label=PROFILE+VIEWS" alt="Profile Views" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=Windyam-Juste-Yannel-BELEMSIGRI&theme=tokyonight&hide_border=true&background=0D1117&ring=3EE08F&fire=3EE08F&currStreakNum=FFFFFF" alt="GitHub Streak" />
-</div>
-
 ~~~bash
 yannel@ubuntu:~$ nc -v yannelbelemsigri9@gmail.com 443
 Connection succeeded — SYN, SYN-ACK, ACK. Parlons SOC ou data 🤝
