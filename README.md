@@ -8,7 +8,9 @@ Salut, moi c'est Yannel. Je suis en 2ᵉ année du cycle ingénieur à l'ENSA K�
 
 Je vais vers la sécurité défensive. Avec ssh-sentinel j'ai vu qu'une bonne partie du travail se joue avant l'alerte : si les logs sont mal collectés ou mal découpés, la meilleure règle de détection ne sert à rien. Du coup j'apprends les deux en même temps, le SOC et le data engineering.
 
-À côté des cours je suis le parcours Cisco CyberOps, je fais des labs sur TryHackMe, Hack The Box et OverTheWire, et je me forme avec Oracle sur les bases de données. Je cherche un stage en SOC ou en data engineering.
+À côté des cours je suis le parcours Cisco CyberOps, je fais des labs sur TryHackMe, Hack The Box et OverTheWire, et je me forme avec Oracle sur les bases de données.
+
+Si tu as un stage en SOC ou en data engineering, un lab à me conseiller ou une question sur un projet, écris-moi : mail ou LinkedIn, les liens sont en haut.
 
 ### `02.` projets
 
@@ -23,7 +25,3 @@ Le reste (labs réseau, Linux, cloud, ma roadmap) est dans mes dépôts, la plup
 ### `03.` stack
 
 <picture><source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg"><img src="assets/stack-dark.svg" alt="Ma stack : sécurité, data, réseau et dev" width="100%"></picture>
-
-### `04.` contact
-
-Une offre de stage, un lab à me conseiller, une question sur un de mes projets ? Écris-moi par [mail](mailto:yannelbelemsigri9@gmail.com) ou sur [LinkedIn](https://www.linkedin.com/in/windyam-juste-yannel-belemsigri), je réponds vite.
