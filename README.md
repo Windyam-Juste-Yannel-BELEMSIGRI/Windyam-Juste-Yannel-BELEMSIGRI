@@ -10,35 +10,28 @@
 
 <br>
 
-~~~bash
-yannel@ubuntu:~$ cat /etc/profile_info
-~~~
+Salut, moi c'est Yannel. Je suis en 2ᵉ année du cycle ingénieur à l'ENSA Kénitra (génie informatique, option Big Data & Data Science), après un DUT à l'EST Fès.
 
-> Élève ingénieur en 2ᵉ année à l'**ENSA Kénitra** (Génie Informatique, option **Big Data & Data Science**).
-> Un SOC reçoit des millions d'événements par jour : je me forme à **construire les pipelines de données** qui les font circuler proprement, et à **y repérer l'attaque**.
-> 🎯 Ouvert aux stages **SOC** · **Data Engineering**.
+Je vais vers la sécurité défensive (SOC) et le data engineering. Pour moi les deux vont ensemble : avant de détecter une attaque, il faut des logs propres et bien rangés. À côté des cours je suis le parcours Cisco CyberOps, je fais des labs sur TryHackMe, Hack The Box et OverTheWire, et je me forme avec Oracle sur les bases de données.
 
-~~~python
-class Yannel(Engineer):
-    def __init__(self):
-        self.school   = "ENSA Kénitra — Génie Informatique, option Big Data & Data Science"
-        self.path     = ["DUT · EST Fès", "Cycle ingénieur · ENSA Kénitra (2025-2028)"]
-        self.target   = ["SOC Analyst", "Data Engineer"]
-        self.thesis   = "Un SOC est d'abord un problème de données."
+Je cherche un stage en SOC ou en data engineering.
 
-    def learning_now(self):
-        return {
-            "soc":    ["Cisco CyberOps Associate", "TryHackMe", "Hack The Box", "OverTheWire"],
-            "data":   ["Oracle Database Administration", "Oracle Data Engineering"],
-            "infra":  ["Cisco IT Networking", "Linux"],
-        }
-~~~
+### Ce sur quoi je travaille
 
-### 🛡️ `/usr/bin/skills`
+| Projet | En deux mots |
+| --- | --- |
+| [ssh-sentinel](https://github.com/Windyam-Juste-Yannel-BELEMSIGRI/ssh-sentinel) | De vrais logs SSH chargés dans PostgreSQL, et des règles SQL pour y trouver brute force, spraying, énumération de comptes |
+| [cybersecurity-ctf-writeups](https://github.com/Windyam-Juste-Yannel-BELEMSIGRI/cybersecurity-ctf-writeups) | Mes write-ups OverTheWire (Bandit 0 à 21) et TryHackMe |
+| [est-fes-rag-assistant](https://github.com/Windyam-Juste-Yannel-BELEMSIGRI/est-fes-rag-assistant) | Mon PFE de DUT en binôme : un assistant RAG local sur le règlement de l'école |
+| [verif-IA](https://github.com/Windyam-Juste-Yannel-BELEMSIGRI/verif-IA) | Projet d'équipe : vérifier si un message vient vraiment de l'institution qu'il prétend représenter, avant de payer |
+| [ai-ml-projects](https://github.com/Windyam-Juste-Yannel-BELEMSIGRI/ai-ml-projects) | Machine learning, en codant les algos à la main d'abord |
+| [C_Projects](https://github.com/Windyam-Juste-Yannel-BELEMSIGRI/C_Projects) | Fillit, des pièces de Tetris rangées par backtracking en C |
+
+### Ce que j'utilise
 
 <table>
   <tr>
-    <td><b>SOC & sécurité</b></td>
+    <td><b>Sécurité</b></td>
     <td>
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
@@ -50,7 +43,7 @@ class Yannel(Engineer):
     <td><b>Data</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
       <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
@@ -58,16 +51,17 @@ class Yannel(Engineer):
     </td>
   </tr>
   <tr>
-    <td><b>Réseaux & systèmes</b></td>
+    <td><b>Réseau & systèmes</b></td>
     <td>
       <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     </td>
   </tr>
   <tr>
-    <td><b>Développement</b></td>
+    <td><b>Dev</b></td>
     <td>
       <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -80,16 +74,4 @@ class Yannel(Engineer):
   </tr>
 </table>
 
-### 📊 `/var/log/github_activity`
-
-~~~bash
-yannel@ubuntu:~$ tail -n 4 /var/log/github_activity.log
-[INFO]  status="ACTIVE" role="SOC_Analyst & Data_Engineer"
-[METRIC] pipeline="ingest -> parse -> detect" health="OK"
-[ALERT]  open_to_internship=true location="Morocco / Remote"
-~~~
-
-~~~bash
-yannel@ubuntu:~$ nc -v yannelbelemsigri9@gmail.com 443
-Connection succeeded — SYN, SYN-ACK, ACK. Parlons SOC ou data 🤝
-~~~
+Pour me contacter, le plus simple c'est par mail ou sur LinkedIn.
