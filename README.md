@@ -6,20 +6,20 @@
 
 Salut ! Je suis en 2ᵉ année du cycle ingénieur à l'ENSA Kénitra, en génie informatique option Big Data & Data Science, après un DUT à l'EST Fès.
 
-Pourquoi la sécurité et la data en même temps : en chargeant de vrais logs SSH, j'ai vu qu'une bonne partie du travail se joue avant l'alerte. Si les logs sont mal collectés ou mal découpés, la meilleure règle de détection ne sert à rien.
-
 À côté des cours je suis le parcours Cisco CyberOps, je fais des labs sur TryHackMe, Hack The Box et OverTheWire, et je me forme avec Oracle sur les bases de données.
 
-### `02.` projets
+### `02.` ma façon de voir le métier
 
-<a href="https://github.com/Windyam-Juste-Yannel-BELEMSIGRI/ssh-sentinel"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-ssh-sentinel-light.svg"><img src="assets/card-ssh-sentinel-dark.svg" alt="ssh-sentinel : détecter des attaques SSH avec du SQL" width="49%"></picture></a> <a href="https://github.com/Windyam-Juste-Yannel-BELEMSIGRI/cybersecurity-ctf-writeups"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-ctf-writeups-light.svg"><img src="assets/card-ctf-writeups-dark.svg" alt="Mes write-ups OverTheWire et TryHackMe" width="49%"></picture></a>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/pipeline-light.svg"><img src="assets/pipeline-dark.svg" alt="Le chemin d'un log : collecter, normaliser, enrichir, stocker (data engineering), puis détecter (SOC)" width="100%"></picture>
 
-<a href="https://github.com/Windyam-Juste-Yannel-BELEMSIGRI/est-fes-rag-assistant"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-rag-light.svg"><img src="assets/card-rag-dark.svg" alt="est-fes-rag-assistant : assistant RAG local, PFE de DUT en binôme" width="49%"></picture></a> <a href="https://github.com/Windyam-Juste-Yannel-BELEMSIGRI/verif-IA"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-verif-ia-light.svg"><img src="assets/card-verif-ia-dark.svg" alt="verif-IA : projet d'équipe, vérifier un message avant de payer" width="49%"></picture></a>
+### `03.` comment je travaille
 
-<a href="https://github.com/Windyam-Juste-Yannel-BELEMSIGRI/ai-ml-projects"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-ai-ml-light.svg"><img src="assets/card-ai-ml-dark.svg" alt="ai-ml-projects : machine learning, en codant les algos à la main d'abord" width="49%"></picture></a> <a href="https://github.com/Windyam-Juste-Yannel-BELEMSIGRI/C_Projects"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-fillit-light.svg"><img src="assets/card-fillit-dark.svg" alt="Fillit : pièces de Tetris rangées par backtracking en C" width="49%"></picture></a>
+- Avant d'écrire du code, je regarde les données à la main. Pour mes logs SSH, `grep`, `cut`, `sort` et `uniq` m'ont montré les pièges avant que le parser tombe dedans.
+- Je code un algo moi-même avant de laisser une bibliothèque le faire à ma place.
+- Quand j'hésite entre deux solutions, je mesure au lieu de deviner.
+- Je n'écris un write-up qu'une fois le challenge résolu tout seul.
+- Je note ce qui a coincé et comment je m'en suis sorti, pour m'en souvenir.
 
-Le reste (labs réseau, Linux, cloud, ma roadmap) est dans mes dépôts, la plupart sont encore en train de se remplir.
-
-### `03.` stack
+### `04.` stack
 
 <picture><source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg"><img src="assets/stack-dark.svg" alt="Ma stack : sécurité, data, réseau et dev" width="100%"></picture>
