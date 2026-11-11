@@ -21,7 +21,7 @@ Je cherche un stage en SOC ou en data engineering.
 | Projet | En deux mots |
 | --- | --- |
 | [ssh-sentinel](https://github.com/Windyam-Juste-Yannel-BELEMSIGRI/ssh-sentinel) | De vrais logs SSH chargés dans PostgreSQL, et des règles SQL pour y trouver brute force, spraying, énumération de comptes |
-| [cybersecurity-ctf-writeups](https://github.com/Windyam-Juste-Yannel-BELEMSIGRI/cybersecurity-ctf-writeups) | Mes write-ups OverTheWire (Bandit 0 à 21) et TryHackMe |
+| [cybersecurity-ctf-writeups](https://github.com/Windyam-Juste-Yannel-BELEMSIGRI/cybersecurity-ctf-writeups) | Mes write-ups OverTheWire (Bandit 0 à 24) et TryHackMe |
 | [est-fes-rag-assistant](https://github.com/Windyam-Juste-Yannel-BELEMSIGRI/est-fes-rag-assistant) | Mon PFE de DUT en binôme : un assistant RAG local sur le règlement de l'école |
 | [verif-IA](https://github.com/Windyam-Juste-Yannel-BELEMSIGRI/verif-IA) | Projet d'équipe : vérifier si un message vient vraiment de l'institution qu'il prétend représenter, avant de payer |
 | [ai-ml-projects](https://github.com/Windyam-Juste-Yannel-BELEMSIGRI/ai-ml-projects) | Machine learning, en codant les algos à la main d'abord |
