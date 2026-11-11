@@ -4,13 +4,11 @@
 
 ### `01.` about
 
-Salut, moi c'est Yannel. Je suis en 2ᵉ année du cycle ingénieur à l'ENSA Kénitra, en génie informatique option Big Data & Data Science, après un DUT à l'EST Fès.
+Salut ! Je suis en 2ᵉ année du cycle ingénieur à l'ENSA Kénitra, en génie informatique option Big Data & Data Science, après un DUT à l'EST Fès.
 
-Je vais vers la sécurité défensive. Avec ssh-sentinel j'ai vu qu'une bonne partie du travail se joue avant l'alerte : si les logs sont mal collectés ou mal découpés, la meilleure règle de détection ne sert à rien. Du coup j'apprends les deux en même temps, le SOC et le data engineering.
+Pourquoi la sécurité et la data en même temps : en chargeant de vrais logs SSH, j'ai vu qu'une bonne partie du travail se joue avant l'alerte. Si les logs sont mal collectés ou mal découpés, la meilleure règle de détection ne sert à rien.
 
 À côté des cours je suis le parcours Cisco CyberOps, je fais des labs sur TryHackMe, Hack The Box et OverTheWire, et je me forme avec Oracle sur les bases de données.
-
-Si tu as un stage en SOC ou en data engineering, un lab à me conseiller ou une question sur un projet, écris-moi : mail ou LinkedIn, les liens sont en haut.
 
 ### `02.` projets
 
